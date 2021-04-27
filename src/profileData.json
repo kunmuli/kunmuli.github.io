@@ -2,11 +2,8 @@
   "landing": {
     "firstName": "Ernest",
     "lastName": "Muli",
-    "phoneNumber": "0714561482",
-    "bio": "Innovative Software Engineer with 4+ years of full stack development experience in the
-software industry working with agile teams to build scalable solutions that enable businesses
-realize their strategic goals. Experienced in the full development lifecycle of conceptualization,
-prototyping, implementation and testing of software applications.",
+    "phoneNumber": "(+254)714 561 482",
+    "bio": "Innovative Software Engineer with 4+ years of full stack development experience in the software industry working with agile teams to build scalable solutions that enable businesses realize their strategic goals. Experienced in the full development lifecycle of conceptualization,prototyping, implementation and testing of software applications.",
     "email": "ernestkmuli@gmail.com",
     "linkedin": "https://www.linkedin.com/in/ernest-muli",
     "github": "https://github.com/kunmuli"
@@ -15,15 +12,7 @@ prototyping, implementation and testing of software applications.",
     {
       "position": "Software Engineer",
       "organization": "Invent Consulting Limited",
-      "aboutWork": "● Implemented a backend ASP.NET web API that interfaced with payment providers such
-as Mpesa by Safaricom and a Microsoft Dynamics 365 CRM instance.
-● Designed and developed a web portal using React.Js that was to be used for viewing vital
-information for a self-insurance mobile app.
-● Part of the mobile app development team for the self-insurance mobile app.
-● Involved in a data migration project at UAP Insurance Limited that involved creating data pipelines and ETL packages.
-● Developed a workforce automation system for a leading bus manufacturer in Kenya.
-● Designed and developed integration software using the .NET framework for a Sacco that was to allow for the exchange of data between two of their core systems(Microsoft Dynamics NAV and Microsoft Dynamics CRM). End to End testing and QA
-● Data analysis using Business Intelligence tools such as Microsoft Power BI for an UAP Insurance Limited, Fly540 Aviation Limited, Lwala Community Alliance and Java House Africa.",
+      "aboutWork": "Implemented a backend ASP.NET web API that interfaced with payment providers such as Mpesa by Safaricom and a Microsoft Dynamics 365 CRM instance. Designed and developed a web portal using React.Js that was to be used for viewing vital information for a self-insurance mobile app. Part of the mobile app development team for the self-insurance mobile app. Involved in a data migration project at UAP Insurance Limited that involved creating data pipelines and ETL packages. Developed a workforce automation system for a leading bus manufacturer in Kenya. Designed and developed integration software using the .NET framework for a Sacco that was to allow for the exchange of data between two of their core systems(Microsoft Dynamics NAV and Microsoft Dynamics CRM). End to End testing and QA. Data analysis using Business Intelligence tools such as Microsoft Power BI for an UAP Insurance Limited, Fly540 Aviation Limited, Lwala Community Alliance and Java House Africa.",
       "fromDate": "May 2016",
       "toDate": "Present"
     }
@@ -39,29 +28,29 @@ information for a self-insurance mobile app.
   ],
   "skills": [
     {
-			"name": "HTML5"
-		},
-		{
-			"name": "CSS3"
-		},
-		{
-			"name": "Javascript"
-		},
-		{
-			"name": "React"
-		},
-		{
-			"name": "Nodejs"
-		},
-		{
-			"name": "Php"
-		},
-		{
-			"name": "C#"
-		},
-		{
-			"name": ".Net"
-		},
+      "name": "HTML5"
+    },
+    {
+      "name": "CSS3"
+    },
+    {
+      "name": "Javascript"
+    },
+    {
+      "name": "React"
+    },
+    {
+      "name": "Nodejs"
+    },
+    {
+      "name": "Php"
+    },
+    {
+      "name": "C#"
+    },
+    {
+      "name": ".Net"
+    },
     {
       "name": "React Native"
     }
