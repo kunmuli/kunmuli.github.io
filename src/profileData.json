@@ -1,56 +1,81 @@
 {
   "landing": {
-    "firstName": "First Name",
-    "lastName": "Last Name",
-    "phoneNumber": "Phone Number",
-    "bio": "User's descriptive bio",
-    "email": "User's email",
-    "linkedin": "User's LinkedIn",
-    "github": "User's GitHub"
+    "firstName": "Ernest",
+    "lastName": "Muli",
+    "phoneNumber": "0714561482",
+    "bio": "Innovative Software Engineer with 4+ years of full stack development experience in the
+software industry working with agile teams to build scalable solutions that enable businesses
+realize their strategic goals. Experienced in the full development lifecycle of conceptualization,
+prototyping, implementation and testing of software applications.",
+    "email": "ernestkmuli@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/ernest-muli",
+    "github": "https://github.com/kunmuli"
   },
   "experience": [
     {
-      "position": "Web Developer",
-      "organization": "Company one",
-      "aboutWork": "Details about work here",
-      "fromDate": "Date of starting",
-      "toDate": "Ending Date"
-    },
-    {
-      "position": "App Developer",
-      "organization": "Company 2",
-      "aboutWork": "Details about work here",
-      "fromDate": "Date of starting",
-      "toDate": "ending date"
+      "position": "Software Engineer",
+      "organization": "Invent Consulting Limited",
+      "aboutWork": "● Implemented a backend ASP.NET web API that interfaced with payment providers such
+as Mpesa by Safaricom and a Microsoft Dynamics 365 CRM instance.
+● Designed and developed a web portal using React.Js that was to be used for viewing vital
+information for a self-insurance mobile app.
+● Part of the mobile app development team for the self-insurance mobile app.
+● Involved in a data migration project at UAP Insurance Limited that involved creating data pipelines and ETL packages.
+● Developed a workforce automation system for a leading bus manufacturer in Kenya.
+● Designed and developed integration software using the .NET framework for a Sacco that was to allow for the exchange of data between two of their core systems(Microsoft Dynamics NAV and Microsoft Dynamics CRM). End to End testing and QA
+● Data analysis using Business Intelligence tools such as Microsoft Power BI for an UAP Insurance Limited, Fly540 Aviation Limited, Lwala Community Alliance and Java House Africa.",
+      "fromDate": "May 2016",
+      "toDate": "Present"
     }
   ],
   "education": [
     {
-      "university": "University or School Name",
-      "degree": "Major",
-      "gpa": "GPA",
-      "fromDate": "Date of start",
-      "toDate": "Date of completion"
+      "university": "Jomo Kenyatta University of Agriculture and Technology",
+      "degree": "Bsc Computer Science",
+      "gpa": "Second Class Upper Division",
+      "fromDate": "September 2015",
+      "toDate": "August 2019"
     }
   ],
   "skills": [
     {
-      "name": "skill1"
-    },
+			"name": "HTML5"
+		},
+		{
+			"name": "CSS3"
+		},
+		{
+			"name": "Javascript"
+		},
+		{
+			"name": "React"
+		},
+		{
+			"name": "Nodejs"
+		},
+		{
+			"name": "Php"
+		},
+		{
+			"name": "C#"
+		},
+		{
+			"name": ".Net"
+		},
     {
-      "name": "skill2"
+      "name": "React Native"
     }
   ],
   "interests": {
-    "paragraphOne": "Descriptive detail about your interests for paragraph one",
-    "paragraphTwo": "Descriptive detail about your interests for paragraph two"
+    "paragraphOne": "Apart from being a developer, I enjoy most of my time being outdoors.",
+    "paragraphTwo": "When forced indoors, I follow a number of sci-fi and fantasy genre movies and television shows, I am an aspiring chef, and I spend a large amount of my free time exploring the latest technology advancements such as AI/ML and blockchain."
   },
   "awards": [
     {
-      "awardDetail": "Your first award"
+      "awardDetail": "Microsoft Certified Data Analyst Associate"
     },
     {
-      "awardDetail": "Your second award"
+      "awardDetail": "IBM Blockchain Developer Mastery Award"
     }
   ]
 }
